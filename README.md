@@ -58,6 +58,7 @@ Here are the available versions of MuffinLM:
 |   **Model**   | Parameters |
 |---------------|------------|
 | Muffin v2.7l  |    5.8M    |
+|  Muffin v2.8  |    4.8M    |
 ---
 
 ## Datasets
