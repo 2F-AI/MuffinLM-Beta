@@ -1,7 +1,7 @@
 # MuffinLM
 
 > **MuffinLM Documentation**  
-> *(Please read everything! and use only Elizabeth for now.)*
+> *(Please read everything!)*
 
 ---
 
