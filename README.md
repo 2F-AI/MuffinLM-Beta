@@ -28,10 +28,10 @@ python main.py
 
 Here are the available versions of MuffinLM:
 
-|                                  **Model**                                 |    **Type**     | **Parameters** |
-|----------------------------------------------------------------------------|-----------------|----------------|
-|   [Muffin 2.7l](https://github.com/2F-AI/MuffinLM-Beta/tree/muffin-2.7)    | Text Generation |      5.8M      |
-|       [Muffin 2.8](https://github.com/2F-AI/MuffinLM-Beta/tree/main)       |    "Chatbot"    |      4.4M      |
+|                                      **Model**                                   |    **Type**     | **Parameters** |
+|----------------------------------------------------------------------------------|-----------------|----------------|
+|       [Muffin 2.7l](https://github.com/2F-AI/MuffinLM-Beta/tree/muffin-2.7)      | Text Generation |      5.8M      |
+|       [Muffin 2.8](https://github.com/2F-AI/MuffinLM-Beta/tree/muffin-2.8)       |    "Chatbot"    |      4.4M      |
 
 ---
 
