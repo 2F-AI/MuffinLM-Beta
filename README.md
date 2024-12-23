@@ -16,7 +16,7 @@ MuffinLM (also known as MLM) is a lightweight text-generation AI model designed 
 
 ## Getting Started
 
-To launch the current version of Muffin (Muffin V2.7l), simply run the following command:
+To launch the current version of Muffin, simply run the following command:
 
 ```bash
 python main.py
@@ -38,7 +38,7 @@ Here are the available versions of MuffinLM:
 
 ## Requirements
 
-Muffin V2 and newer versions require PyTorch to run. You can install it with:
+PyTorch 
 
 ```bash
 pip install torch
