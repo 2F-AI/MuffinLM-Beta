@@ -1,4 +1,4 @@
-![photo](https://ollama.com/assets/FlameF0X/muffin2.9-2b/94d9492d-8b5c-494c-948b-6b391bc10b9a " ")
+![banner](https://ollama.com/assets/FlameF0X/muffin2.9-2b/94d9492d-8b5c-494c-948b-6b391bc10b9a " ")
 
 # MuffinLM
 
