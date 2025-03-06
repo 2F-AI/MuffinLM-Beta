@@ -1,11 +1,3 @@
-################################################################
-#   Muffin V2.7l -- VERSION 2.7 large                          #
-#                                                              #
-#    We all love Muffin 2.7!                                   #
-#                                                              #
-#    architecture: LSTM <3                                     #
-################################################################
-
 import os
 import random
 from typing import List
