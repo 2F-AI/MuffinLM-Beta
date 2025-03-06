@@ -1,12 +1,3 @@
-################################################################
-#   Muffin V2.8 -- VERSION 2.8                                 #
-#                                                              #
-#    Warming!!! This AI model is trined on r/AskReddit and     #
-#    is not censored !!!                                       #
-#                                                              #
-#    architecture: LSTM <3                                     #
-################################################################
-
 import os
 import random
 import json
